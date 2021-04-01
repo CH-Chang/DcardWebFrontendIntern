@@ -1,0 +1,1 @@
+export const GET_SCENICSPOT_SPOT = "index_getScenicSpot";
